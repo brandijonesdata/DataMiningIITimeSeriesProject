@@ -1,0 +1,110 @@
+,label,label_code
+0,Potassium Chloride,0
+1,K Phos,1
+2,Magnesium Sulfate,2
+3,Na Phos,3
+4,Meropenem,4
+5,Furosemide (Lasix),5
+6,Insulin - Regular,6
+7,Gastric Meds,7
+8,Metoprolol,8
+9,GT Flush,9
+10,Fentanyl,10
+11,Heparin Sodium,11
+12,Hydralazine,12
+13,Free Water,13
+14,Propofol,14
+15,Vancomycin,15
+16,Hydromorphone (Dilaudid),16
+17,Labetalol,17
+18,Piperacillin/Tazobactam (Zosyn),18
+19,Midazolam (Versed),19
+20,Lorazepam (Ativan),20
+21,Dextrose 50%,21
+22,Cefepime,22
+23,Piggyback,23
+24,Norepinephrine,24
+25,Solution,25
+26,Dextrose 5%,26
+27,Phenylephrine,27
+28,KCL (Bolus),28
+29,Albumin 5%,29
+30,Vasopressin,30
+31,Packed Red Blood Cells,31
+32,Sterile Water,32
+33,Magnesium Sulfate (Bolus),33
+34,Fentanyl (Concentrate),34
+35,Acetaminophen-IV,35
+36,Albumin 25%,36
+37,Anion Gap,37
+38,Bicarbonate,38
+39,"Calcium, Total",39
+40,Chloride,40
+41,Creatinine,41
+42,Glucose,42
+43,Magnesium,43
+44,Phosphate,44
+45,Potassium,45
+46,Sodium,46
+47,Urea Nitrogen,47
+48,Hematocrit,48
+49,Hemoglobin,49
+50,MCH,50
+51,MCV,51
+52,Platelet Count,52
+53,RDW,53
+54,Red Blood Cells,54
+55,White Blood Cells,55
+56,PT,56
+57,PTT,57
+58,Base Excess,58
+59,Calculated Total CO2,59
+60,Lactate,60
+61,pCO2,61
+62,pH,62
+63,pO2,63
+64,Alanine Aminotransferase (ALT),64
+65,Alkaline Phosphatase,65
+66,Asparate Aminotransferase (AST),66
+67,"Bilirubin, Total",67
+68,Monocytes,68
+69,Albumin,69
+70,Specific Gravity,70
+71,Basophils,71
+72,Eosinophils,72
+73,Lymphocytes,73
+74,Neutrophils,74
+75,Straight Cath,75
+76,Foley,76
+77,Void,77
+78,Oral Gastric,78
+79,TF Residual,79
+80,Fecal Bag,80
+81,Stool,81
+82,Insulin Drug,82
+83,Sodium Chloride 0.9%  Flush Drug,83
+84,Metoprolol Tartrate Drug,84
+85,Aspirin Drug,85
+86,Potassium Chloride Drug,86
+87,Bisacodyl Drug,87
+88,Magnesium Sulfate Drug,88
+89,Acetaminophen Drug,89
+90,Heparin Drug,90
+91,Pantoprazole Drug,91
+92,Famotidine (Pepcid),92
+93,Pantoprazole (Protonix),93
+94,Dexmedetomidine (Precedex),94
+95,OR EBL,95
+96,OR Urine,96
+97,Docusate Sodium Drug,97
+98,Calcium Gluconate,98
+99,Heparin Sodium (Prophylaxis),99
+100,Pantoprazole (Protonix) Continuous,100
+101,Pre-Admission,101
+102,D5W Drug,102
+103,Nasogastric,103
+104,Emesis,104
+105,Metronidazole,105
+106,Ceftriaxone,106
+107,TF Residual Output,107
+108,Insulin - Humalog,108
