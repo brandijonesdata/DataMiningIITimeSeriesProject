@@ -18,7 +18,7 @@ This repository contains our Data Mining II time series project focused on irreg
 - `IntermediateFiles/`: csvs and other docs needed for project pipeline
 
 ## Main Files
-- `Final/run_mimic_mortality_irregular_oldgate.py`
+- `Final/timeimmtsfbjonesmortclassragradd.py`
 - `Final/run_mimic_classifier_oldgate.py`
 - `Final/03_group_project.ipynb`
 - `Final/TIME_IMM_Reproduction3.pdf`
