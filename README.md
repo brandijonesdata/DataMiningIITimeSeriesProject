@@ -24,9 +24,9 @@ This repository contains our Data Mining II time series project focused on irreg
 - `Final/TIME_IMM_Reproduction3.pdf`
 
 ## How to Run
+Code for project and processed data files all from motivating paper git: `[data/processed/](https://github.com/blacksnail789521/Time-IMM)`
 1. Install dependencies from `requirements.txt`
-2. Place required processed data files in `[data/processed/](https://github.com/blacksnail789521/Time-IMM)`
-3. Run the main scripts from `Final/`
+2. Run the main scripts from `Final/`
 
 ## Notes
 This repository includes archived duplicate versions created during development. The recommended files to review are the ones in Final folder.
