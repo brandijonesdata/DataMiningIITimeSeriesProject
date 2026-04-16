@@ -30,3 +30,11 @@ Code for project and processed data files all from motivating paper git: `[data/
 
 ## Notes
 This repository includes archived duplicate versions created during development. The recommended files to review are the ones in Final folder.
+@inproceedings{
+chang2025timeimm,
+title={Time-{IMM}: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series},
+author={Ching Chang and Jeehyun Hwang and Yidan Shi and Haixin Wang and Wei Wang and Wen-Chih Peng and Tien-Fu Chen},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+year={2025},
+url={https://openreview.net/forum?id=yeqrrn51TL}
+}
