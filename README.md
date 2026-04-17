@@ -20,7 +20,7 @@ This repository contains our Data Mining II time series project focused on irreg
 ## Main Files
 - `Final/timeimmtsfbjonesmortclassragradd.py`
 - `Final/FINALDataMining2AnalyticsDay.pptx`
-- `Final/TIME_IMM_TSF_Extension_MethodsExplanation.pdf`
+- `Final/TIME_IMM_TSF_Project_Methods.pdf`
 
 ## How to Run
 Code for project and processed data files all from motivating paper git: `(https://github.com/blacksnail789521/Time-IMM)`
