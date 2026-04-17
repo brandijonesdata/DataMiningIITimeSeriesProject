@@ -19,7 +19,6 @@ This repository contains our Data Mining II time series project focused on irreg
 
 ## Main Files
 - `Final/timeimmtsfbjonesmortclassragradd.py`
-- `Final/run_mimic_classifier_oldgate.py`
 - `Final/FINALDataMining2AnalyticsDay.pptx`
 - `Final/TIME_IMM_TSF_Extension_MethodsExplanation.pdf`
 
