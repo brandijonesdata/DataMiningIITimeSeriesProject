@@ -5,7 +5,7 @@ This repository contains our Data Mining II time series project focused on irreg
 
 ## Objectives
 - preprocess MIMIC-style admissions, outputs, and prescription data
-- build mortality/classification pipelines for irregular time series
+- build financial and mortality forecasting/classification pipelines for irregular time series
 - compare baseline and modified gating/classification approaches
 - document results in reports and presentation slides
 
