@@ -16,7 +16,7 @@ This repository contains our Data Mining II time series project focused on irreg
 - `Notes/`: written reports and PDFs
 - `Presentations/`: presentation decks
 - `IntermediateFiles/`: csvs and other docs needed for project pipeline
-- - `data.zip`: Original TIME-IMM datasets
+- `data.zip`: Original TIME-IMM datasets
 
 ## Main Files
 - `Final/timeimmtsfbjonesmortclassragradd.py`
