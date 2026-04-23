@@ -30,7 +30,7 @@ Code for project and processed data files all adapted from methods in motivating
 
 ## Notes
 This repository includes archived duplicate versions created during development. The recommended files to review are the ones in Final folder.
-@inproceedings{
+Motivating Paper for Project Extensions:
 chang2025timeimm,
 title={Time-{IMM}: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series},
 author={Ching Chang and Jeehyun Hwang and Yidan Shi and Haixin Wang and Wei Wang and Wen-Chih Peng and Tien-Fu Chen},
