@@ -27,7 +27,7 @@ This repository contains our Data Mining II time series project focused on irreg
 ## How to Run
 Code for project and processed data files all adapted from methods in motivating paper git: `(https://github.com/blacksnail789521/Time-IMM)`
 1. Install dependencies from `requirements.txt`
-2. Run the main scripts from `Final/`
+2. Run the main scripts from `Final/TPatchGNN_GPT2_RA_GRAdd_MIMIC_FNSPID_FULL_v9_FINAL_ALL_FIXES.ipynb`
 
 ## Notes
 This repository includes archived duplicate versions created during development. The recommended files to review are the ones in Final folder.
