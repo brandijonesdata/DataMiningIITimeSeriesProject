@@ -19,7 +19,7 @@ This repository contains our Data Mining II time series project focused on irreg
 - `data.zip`: Original TIME-IMM datasets
 
 ## Main Files
-- `Final/timeimmtsfbjonesmortclassragradd.py`
+- `Final/TPatchGNN_GPT2_RA_GRAdd_MIMIC_FNSPID_FULL_v9_FINAL_ALL_FIXES.ipynb`
 - `Presentations/FINALFinalDataMining2AnalyticsDay.pptx`
 - `Final/TimeIMMFinalProjectPaper.pdf`
 - `Final/FinalDataMiningPresentationSlides.pptx`
