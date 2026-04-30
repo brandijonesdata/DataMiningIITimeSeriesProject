@@ -21,7 +21,7 @@ This repository contains our Data Mining II time series project focused on irreg
 ## Main Files
 - `Final/TPatchGNN_GPT2_RA_GRAdd_MIMIC_FNSPID_FULL_v9_FINAL_ALL_FIXES.ipynb`
 - `Presentations/FINALFinalDataMining2AnalyticsDay.pptx`
-- `Final/TimeIMMFinalProjectPaper.pdf`
+- `Final/Final_Data_Mining_II_Project_Paper.pdf`
 - `Final/FinalDataMiningPresentationSlides.pptx`
 
 ## How to Run
